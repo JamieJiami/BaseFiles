@@ -1,0 +1,1 @@
+createobject("wscript.shell").run ".\rsaban.bat",0
